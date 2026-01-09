@@ -12,5 +12,6 @@ Tools for programmable creativity.
 | [Cambium](https://github.com/rhizome-lab/cambium) | Pipeline orchestrator for data conversion |
 | [Canopy](https://github.com/rhizome-lab/canopy) | Universal UI client |
 | [Frond](https://github.com/rhizome-lab/frond) | Game design primitives library |
+| [Winnow](https://github.com/rhizome-lab/winnow) | Legacy software lifting framework |
 
 **[Documentation](https://rhizome-lab.github.io)**
