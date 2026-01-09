@@ -11,6 +11,6 @@ Tools for programmable creativity.
 | [Liana](https://github.com/rhizome-lab/liana) | API bindings IR and codegen |
 | [Cambium](https://github.com/rhizome-lab/cambium) | Pipeline orchestrator for data conversion |
 | [Canopy](https://github.com/rhizome-lab/canopy) | Universal UI client |
-| [Frond](https://github.com/rhizome-lab/frond) | Procedural world generation library |
+| [Frond](https://github.com/rhizome-lab/frond) | Game design primitives library |
 
 **[Documentation](https://rhizome-lab.github.io)**
