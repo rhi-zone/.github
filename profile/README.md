@@ -9,7 +9,7 @@ Tools for programmable creativity.
 | [Hypha](https://github.com/rhizome-lab/hypha) | Federation protocol for interconnected persistent worlds |
 | [Resin](https://github.com/rhizome-lab/resin) | Constructive media generation in Rust |
 | [Frond](https://github.com/rhizome-lab/frond) | Game design primitives library |
-| [Sap](https://github.com/rhizome-lab/sap) | Expression language for procedural generation |
+| [Dew](https://github.com/rhizome-lab/dew) | Minimal expression language for procedural generation |
 | [Liana](https://github.com/rhizome-lab/liana) | API bindings IR and codegen |
 | [Cambium](https://github.com/rhizome-lab/cambium) | Pipeline orchestrator for data conversion |
 | [Canopy](https://github.com/rhizome-lab/canopy) | Universal UI client with control plane |
