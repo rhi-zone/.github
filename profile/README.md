@@ -14,7 +14,8 @@ Tools for programmable creativity.
 | [Cambium](https://github.com/rhizome-lab/cambium) | Pipeline orchestrator for data conversion |
 | [Canopy](https://github.com/rhizome-lab/canopy) | Universal UI client with control plane |
 | [Siphon](https://github.com/rhizome-lab/siphon) | Legacy software lifting framework |
-| [Nursery](https://github.com/rhizome-lab/nursery) | Ecosystem orchestrator via rhizome.toml manifests |
+| [Nursery](https://github.com/rhizome-lab/nursery) | Schema-controlled tool orchestrator |
 | [Spore](https://github.com/rhizome-lab/spore) | Agentic AI framework with Lua scripting |
+| [Reed](https://github.com/rhizome-lab/reed) | Language translation layer (source → IR → source) |
 
 **[Documentation](https://rhizome-lab.github.io)**
