@@ -26,6 +26,7 @@ This policy applies to all repositories under the rhizome-lab organization:
 - [Nursery](https://github.com/rhizome-lab/nursery) - Ecosystem orchestrator
 - [Spore](https://github.com/rhizome-lab/spore) - Lua runtime with plugin system
 - [Reed](https://github.com/rhizome-lab/reed) - Language translation layer (source → IR → source)
+- [Pith](https://github.com/rhizome-lab/pith) - Standard library interfaces
 
 ## Supported Versions
 
