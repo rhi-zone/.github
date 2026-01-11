@@ -15,7 +15,6 @@ We will respond within 48 hours and work with you to understand and address the 
 This policy applies to all repositories under the rhizome-lab organization:
 
 - [Moss](https://github.com/rhizome-lab/moss) - Structural code intelligence
-- [Lotus](https://github.com/rhizome-lab/lotus) - Entity/capability storage layer
 - [Hypha](https://github.com/rhizome-lab/hypha) - Federation protocol for persistent worlds
 - [Resin](https://github.com/rhizome-lab/resin) - Constructive media generation
 - [Frond](https://github.com/rhizome-lab/frond) - Game design primitives library
