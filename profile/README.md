@@ -5,7 +5,7 @@ Tools for programmable creativity.
 | Project | Description |
 |---------|-------------|
 | [Moss](https://github.com/rhizome-lab/moss) | Structural code intelligence for humans and AI agents |
-| [Lotus](https://github.com/rhizome-lab/lotus) | LambdaMOO-inspired Lua runtime with persistent entity storage |
+| [Lotus](https://github.com/rhizome-lab/lotus) | Entity/capability storage layer |
 | [Hypha](https://github.com/rhizome-lab/hypha) | Federation protocol for interconnected persistent worlds |
 | [Resin](https://github.com/rhizome-lab/resin) | Constructive media generation in Rust |
 | [Frond](https://github.com/rhizome-lab/frond) | Game design primitives library |
