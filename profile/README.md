@@ -18,5 +18,6 @@ Tools for programmable creativity.
 | [Reed](https://github.com/rhizome-lab/reed) | Language translation layer (source → IR → source) |
 | [Pith](https://github.com/rhizome-lab/pith) | Standard library interfaces |
 | [Flora](https://github.com/rhizome-lab/flora) | Lua-based tools, scaffolds, and orchestration |
+| [Trellis](https://github.com/rhizome-lab/trellis) | Composable derive macros for Rust |
 
 **[Documentation](https://rhizome-lab.github.io)**
