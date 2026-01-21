@@ -15,7 +15,6 @@ Tools for programmable creativity.
 | [Siphon](https://github.com/rhizome-lab/siphon) | Legacy software lifting framework |
 | [Nursery](https://github.com/rhizome-lab/nursery) | Schema-controlled tool orchestrator |
 | [Spore](https://github.com/rhizome-lab/spore) | Lua runtime with plugin system |
-| [Reed](https://github.com/rhizome-lab/reed) | Language translation layer (source → IR → source) |
 | [Pith](https://github.com/rhizome-lab/pith) | Standard library interfaces |
 | [Flora](https://github.com/rhizome-lab/flora) | Lua-based tools, scaffolds, and orchestration |
 | [Trellis](https://github.com/rhizome-lab/trellis) | Composable derive macros for Rust |
