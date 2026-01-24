@@ -1,5 +1,5 @@
 {
-  description = "rhizome-lab .github - organization defaults and profile";
+  description = "rhi-zone .github - organization defaults and profile";
 
   inputs = {
     nixpkgs.url = "github:NixOS/nixpkgs/nixos-unstable";
