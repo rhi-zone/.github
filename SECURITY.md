@@ -22,7 +22,7 @@ This policy applies to all repositories under the rhi-zone organization:
 - [Concord](https://github.com/rhi-zone/concord) - API bindings IR and codegen
 - [Paraphase](https://github.com/rhi-zone/paraphase) - Pipeline orchestrator for data conversion
 - [Dusklight](https://github.com/rhi-zone/dusklight) - Universal UI client with control plane
-- [Resurrect](https://github.com/rhi-zone/resurrect) - Legacy software lifting framework
+- [Reincarnate](https://github.com/rhi-zone/reincarnate) - Legacy software lifting framework
 - [Myenv](https://github.com/rhi-zone/myenv) - Ecosystem orchestrator
 - [Moonlet](https://github.com/rhi-zone/moonlet) - Lua runtime with plugin system
 - [Portals](https://github.com/rhi-zone/portals) - Standard library interfaces

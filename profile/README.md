@@ -28,7 +28,7 @@ Glue layer for computers.
 |---------|-------------|
 | [paraphase](https://github.com/rhi-zone/paraphase) | Pipeline orchestrator for data conversion |
 | [concord](https://github.com/rhi-zone/concord) | API bindings IR and codegen |
-| [resurrect](https://github.com/rhi-zone/resurrect) | Legacy software lifting framework |
+| [reincarnate](https://github.com/rhi-zone/reincarnate) | Legacy software lifting framework |
 
 ### Runtime & Interface
 
