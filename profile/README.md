@@ -7,6 +7,7 @@ Glue layer for computers.
 | Project | Description |
 |---------|-------------|
 | [normalize](https://github.com/rhi-zone/normalize) | Structural code intelligence for humans and AI agents |
+| [gels](https://github.com/rhi-zone/gels) | Trait-based grammar inference engine |
 
 ### Generation
 
@@ -27,6 +28,7 @@ Glue layer for computers.
 | Project | Description |
 |---------|-------------|
 | [paraphase](https://github.com/rhi-zone/paraphase) | Pipeline orchestrator for data conversion |
+| [rescribe](https://github.com/rhi-zone/rescribe) | Lossless document conversion library |
 | [concord](https://github.com/rhi-zone/concord) | API bindings IR and codegen |
 | [reincarnate](https://github.com/rhi-zone/reincarnate) | Legacy software lifting framework |
 
