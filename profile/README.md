@@ -14,7 +14,7 @@ Glue layer for computers.
 | Project | Description |
 |---------|-------------|
 | [unshape](https://github.com/rhi-zone/unshape) | Constructive media generation in Rust |
-| [dew](https://github.com/rhi-zone/dew) | Minimal expression language for procedural generation |
+| [wick](https://github.com/rhi-zone/wick) | Minimal expression language for procedural generation |
 
 ### Games & Worlds
 

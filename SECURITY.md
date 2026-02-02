@@ -18,7 +18,7 @@ This policy applies to all repositories under the rhi-zone organization:
 - [Interconnect](https://github.com/rhi-zone/interconnect) - Federation protocol for persistent worlds
 - [Unshape](https://github.com/rhi-zone/unshape) - Constructive media generation
 - [Playmate](https://github.com/rhi-zone/playmate) - Game design primitives library
-- [Dew](https://github.com/rhi-zone/dew) - Minimal expression language
+- [Wick](https://github.com/rhi-zone/wick) - Minimal expression language
 - [Concord](https://github.com/rhi-zone/concord) - API bindings IR and codegen
 - [Paraphase](https://github.com/rhi-zone/paraphase) - Pipeline orchestrator for data conversion
 - [Dusklight](https://github.com/rhi-zone/dusklight) - Universal UI client with control plane
