@@ -28,6 +28,7 @@ Glue layer for computers.
 
 | Project | Description |
 |---------|-------------|
+| [tiltshift](https://github.com/rhi-zone/tiltshift) | Iterative structure extraction from opaque binary data |
 | [paraphase](https://github.com/rhi-zone/paraphase) | Pipeline orchestrator for data conversion |
 | [rescribe](https://github.com/rhi-zone/rescribe) | Lossless document conversion library |
 | [concord](https://github.com/rhi-zone/concord) | API bindings IR and codegen |
