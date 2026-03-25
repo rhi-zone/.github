@@ -53,6 +53,6 @@ Glue layer for computers.
 | [portals](https://github.com/rhi-zone/portals) | Standard library interfaces |
 | [zone](https://github.com/rhi-zone/zone) | Lua-based tools, scaffolds, and orchestration |
 | [server-less](https://github.com/rhi-zone/server-less) | Composable derive macros for Rust |
-| [nanites](https://github.com/rhi-zone/nanites) | Amorphous intelligence — composable functions for AI orchestration |
+| [nanites](https://github.com/rhi-zone/nanites) | Flexible orchestration |
 
 **[Documentation](https://rhi-zone.github.io)**
