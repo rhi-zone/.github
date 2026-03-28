@@ -15,7 +15,7 @@ We will respond within 48 hours and work with you to understand and address the 
 This policy applies to all repositories under the rhi-zone organization:
 
 - [Normalize](https://github.com/rhi-zone/normalize) - Structural code intelligence
-- [Interconnect](https://github.com/rhi-zone/interconnect) - Federation protocol for persistent worlds
+- [Interconnect](https://github.com/rhi-zone/interconnect) - Connective substrate for authoritative rooms
 - [Unshape](https://github.com/rhi-zone/unshape) - Constructive media generation
 - [Playmate](https://github.com/rhi-zone/playmate) - Game design primitives library
 - [Wick](https://github.com/rhi-zone/wick) - Minimal expression language
